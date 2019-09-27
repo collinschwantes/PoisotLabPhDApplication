@@ -1,0 +1,16 @@
+---
+title: "Statement on Equit, Inclusion, and Diversity in Academia"
+author: "Collin Schwantes"
+date: "9/27/2019"
+output: html_document
+---
+
+From the values page:
+ - diverse viewpoints to enhance mutual understanding of science, scientists, and the needs of the world
+
+ - Science is hard, and the work of making sure science isn’t harder than it needs to be is on all of us
+
+
+Beyond inclusive science generating better research outcomes, we, as human beings, have the right to be treated with respect and dignity. Barriers to access, explicitly and implicitly, continue to infringe on that right. Academia, especially STEM disciplines, has traditionally been an environment that is unwelcoming of non cis-white male individuals and has actively discounted their contributions to research. As an academic community, we must actively work to remove barriers to access by creating an equitable, diverse and inclusive research environment.
+
+The ulititarian argument for equity, diversity, and inclusion falls short because research value is also a social construct that is often set by the beneficiaries of historical oppression.[] 
