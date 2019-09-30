@@ -16,9 +16,7 @@ builds community
 science as service
 
 
-
-
-Uncovering, verifying, sharing, and maintaining knowledge is made easier by open science. I have been fortunate to have had several mentors, Kaitlin Stack Whitney, Max Joesph, and Tim Mehaan, throughout my career who have pushed open science and demonstrated its value. In my current role as a Biosurveillance Scientist, I have pushed the National Biosurveillance Integration Center to adapt reproducible workflows using open source tools. 
+Uncovering, verifying, sharing, and maintaining knowledge is made easier by open science. I have been fortunate to have had several mentors, Kaitlin Stack Whitney, Max Joesph, and Tim Mehaan, throughout my career who have pushed open science and demonstrated its value. In my current role as a Biosurveillance Scientist, I have pushed the National Biosurveillance Integration Center to adapt reproducible workflows using open source tools. Open science removes unnecessary barriers to research and improves research outcomes by ensuring those with the best ideas have access to data and tools. 
 
 During my graduate work at the University of Colorado-Boulder, I had a wonderful colleague named Max Joesph who pushed me to use open science practices. 
 
