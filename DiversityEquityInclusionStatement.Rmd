@@ -2,23 +2,22 @@
 title: "Statement on Equit, Inclusion, and Diversity in Academia"
 author: "Collin Schwantes"
 date: "9/27/2019"
-output: html_document
+output:
+  word_document: default
+  html_document: default
 ---
 
-From the values page:
- - diverse viewpoints to enhance mutual understanding of science, scientists, and the needs of the world
+Statement on Equity, Inclusion, and Diversity in Academia
+By Collin Schwantes
+9/27/2019
 
- - Science is hard, and the work of making sure science isn’t harder than it needs to be is on all of us
+Beyond inclusive science generating better research outcomes, we, as human beings, have the right to be treated with respect and dignity. Explicit and implicit barriers to access continue to infringe on that right. Academia, especially STEM disciplines, has traditionally been unwelcoming to non-heteronormative male individuals and has actively discounted their contributions to research. As an academic community, we must actively work to remove barriers to access at all levels and fully acknowledge everyone’s contributions by creating an equitable, diverse, and inclusive research environment.
 
+Equity, diversity, and inclusivity are all necessary to overcome historical injustices in academia. Equity is the idea that all individuals should be treated impartially and without favoritism. Diversity relates to the variation in the population of individuals who are participating in the academy. Inclusivity is the active process that creates space for individuals who are often denied opportunities because of failings in diversity and equity. As diversity, equity, and inclusivity expand, we destroy artificial barriers, opening the scientific community up to new, potentially paradigm shifting ideas.
 
-Beyond inclusive science generating better research outcomes, we, as human beings, have the right to be treated with respect and dignity. Barriers to access, explicitly and implicitly, continue to infringe on that right. Academia, especially STEM disciplines, has traditionally been an environment that is unwelcoming of non cis-white male individuals and has actively discounted their contributions to research. As an academic community, we must actively work to remove barriers to access at all levels and fully acknowledge everyone's contributions by creating an equitable, diverse and inclusive research environment.
+The utalitarian argument for equity, diversity, and inclusion in academia is important because it allows institutions to argue for that policy based on outcomes that benefit the institution or society. However, the utilitarian argument suffers because research value and its attribution are social constructs often set by the beneficiaries of historical oppression. With an utilitarian argument, if maintaining equity, diversity, and inclusivity becomes too costly, an institution would be justified in ending that policy. Therefore, the argument for inclusiviness should be made first from a rights perspective, with policy implementation focusing on restorative practices. Any benefits received by the institution or demographic groups who benefit from academia’s bias are secondary and should not form the core reason for having policies of equity, diversity, and inclusion.
 
-
-Equity, diversity and inclusivity are all necessary to overcome historical injustices in academia. Equity is the idea that all individuals should be treated impartially and without favoritism, diversity relates to the variation in the population of individuals who are participating in the academy, and inclusivity is an active process that creates space for individuals who are often denied opportunities because of failings in diversity and equity.   
-
-The ulititarian argument for equity, diversity, and inclusion falls short because *research value* is a social construct that is often set by the beneficiaries of historical oppression. The academy is a high prestige intitution, reflecting and often magnifying the inequality that exists in society. 
-
-Actively working to remove barriers and fully acknowledge contributions is the least we can do as community to ensure
+Actively working to remove barriers and fully acknowledge contributions from excluded groups is the rent I must pay as a community member who benefits from academia’s bias. As a member of the Poisot Lab, I would continue to promote and implement inclusive research practices. Making doing science easier for everyone, and building a research community that reflects the world we live in is the likely the most important contribution I will make to science.
 
 
 
