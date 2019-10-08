@@ -45,13 +45,24 @@ Thesis
 R
 
 Git
-
+ 
 Python
 
 Current position supporting open science at NBIC
 
 
+Science seeks to understand the universe through rigorous testing and observation.
+Open science lays knowledge and process bare as much as ethically possible. It incentivises altruistic behaviors, fosters benevolent research communities, and increases access. This connects the lab to the world, creating a flow of ideas and values that improve both.
 
+Open science bakes reproducibility into the research process by giving access to data (where appropriate) and tools. Workflows that emphasize reproducibility make researchers more efficient in the long term because they must think collaboratively, even if their only collaborator is their future self. Collaborative thinking encourages organization, documentation, and careful consideration of assumptions as you attempt to explain your process and data to others. There now exist a plethora of open platforms for sharing both data and tools that facilite reproducible research methodologies. 
+
+In my current role as a Biosurveillance Scientist, I have pushed the National Biosurveillance Integration Center to adopt reproducible workflows using open source tools and establish an open science culture. Not only do we produce higher quality work more efficiently using modular R scripts, we have created an environment that fosters intellectual and technical growth. This would not have been possible without the teaching materials Jenny Bryan, Hadley Wickham, and the example set by my open science mentors.
+
+I have been fortunate to have had several mentors throughout my career who pushed open science and demonstrated its power to generate knowledge and a benevolent research culture. Tim Meehan introduced me to the world of open data and open software while I was a research technician, showing me the power of these approaches to generate insight. Kaitlin Whitney Stack championed the recognition of research technician's work in lab publications, ensuring everyone’s contributions were recognized. Max Joseph created a safe space where his fellow graduate students could present their early explorations of a particular quantitative method or ask for support in a low pressure environment, all while gently nudging us towards git proficiency. 
+
+In order to give back to the community, I developed a participatory ("citizen") science dashboard with the University of Colorado, contributed to an open repository of research grade holotype images at the Smithsonian, and a built a graphical user interface for a mosquito control model with the University of Maryland. Each of these endeavors sought to freely share knowledge outside the immediate lab and academia. 
+
+Opening science 
 
 
 
