@@ -1,0 +1,15 @@
+---
+title: "LetterOfPresentation"
+author: "Collin Schwantes"
+date: "10/7/2019"
+output: html_document
+---
+
+1200 words
+
+outlining past research achievements,
+
+future research plans,
+
+any relevant information
+
