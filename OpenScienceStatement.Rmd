@@ -62,7 +62,7 @@ I have been fortunate to have had several mentors throughout my career who pushe
 
 In order to be of service to broader communities, I developed a participatory ("citizen") science dashboard with the University of Colorado, contributed to an open repository of research grade holotype images at the Smithsonian, and a built a graphical user interface for a mosquito control model with the University of Maryland. Each of these endeavors sought to freely share knowledge, including code, outside the lab and academia. 
 
-Open science removes unnecessary barriers to research and improves outcomes by creating supportive and inclusive environments where access to tools and data are not limited by funding or other factors. Having benefited from and fostered open science culture, I have experienced first hand the value it creates from technical, intellilectual, and interpersonal perspectives.      
+Open science removes unnecessary barriers to research and improves outcomes by creating supportive and inclusive environments where access to tools and data are not limited by funding or other factors. Having benefited from and fostered open science culture, I have experienced first hand the value it creates from technical, intellilectual, and personal perspectives. As a member of the Poisot lab, I would actively cultivate open science practices with the hope of benefiting my labmates, collaborators, and community.
 
 
 
