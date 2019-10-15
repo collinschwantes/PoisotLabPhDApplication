@@ -25,7 +25,8 @@ future research plans,
     - build NLP tool to extract interaction data from historical literature
   - understand how inter-species interactions impact community composition
   - understand community resiliency and its relationship to network structure 
-  - Use AI to explore relationships between interaction and spatial scale in communities 
+    - Leverage open data from GBIF etc - Use AI to explore relationships between interaction and spatial scale in communities
+  - 
 
 
 
