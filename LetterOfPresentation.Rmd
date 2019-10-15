@@ -8,8 +8,24 @@ output: html_document
 1200 words
 
 outlining past research achievements,
+- university of wisconsin madison research tech
+  - developed strong foundations in field research, agroecology, understand how data are collected, curated, and stored   
+- university of Colorado 
+   - Behavioral ecology, pollinator predator interactions
+   - community ecology - species distribution models
+   - spatial modeling
+ - smithsonian
+    - deeper appreciation for specimen curation
+  - NBIC
+    - how academic research is translated into govt policy, importance of clear concise sci commm., value of data vizualization, recognize the value of openscience to resource constrained govt institutions like public health and wildlife mgmt agencies
 
 future research plans,
+- explore the relationship between species interaction networks and spatial scale in ecology.
+  - establish online repository of interaction data and tools to increase accessibility to network analysis
+    - build NLP tool to extract interaction data from historical literature
+  - understand how inter-species interactions impact community composition
+  - understand community resiliency and its relationship to network structure 
+  - Use AI to explore relationships between interaction and spatial scale in communities 
 
-any relevant information
+
 
