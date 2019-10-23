@@ -6,7 +6,7 @@ output: html_document
 ---
 
 
-Dear Dr. Poisot, 
+Dear Dr. Poisot,
 
 I was introduced to your work by various colleagues who use networks to investigate ecological processes. While my background is firmly as a "dirty boots" ecologist who studies species distributions in agroecosytems, I developed a deep appreciation of and curiosity for theoretical ecology while studying my masters degree. During my PhD studies, I would like to apply machine learning to graph representations of empirical ecological interactions inorder to derive ecological theory. Specifically, I am deeply interested in understanding the relationship between fine scale behavioral interactions and landscape scale species distribitution patterns. 
 
