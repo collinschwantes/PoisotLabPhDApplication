@@ -2,7 +2,9 @@
 title: "LetterOfPresentation"
 author: "Collin Schwantes"
 date: "10/7/2019"
-output: html_document
+output:
+  word_document: default
+  html_document: default
 ---
 
 
@@ -10,7 +12,27 @@ Dear Dr. Poisot,
 
 I was introduced to your work by various colleagues who use networks to investigate ecological processes. While my background is firmly as a "dirty boots" ecologist who studies species distributions in agroecosytems, I developed a deep appreciation of and curiosity for theoretical ecology while studying my masters degree. During my PhD studies, I would like to apply machine learning to graph representations of empirical ecological interactions inorder to derive ecological theory. Specifically, I am deeply interested in understanding the relationship between fine scale behavioral interactions and landscape scale species distribitution patterns. 
 
-My career in ecology began in 2006 working as a field technician conducting habitat restoration in prairies in Southeastern Wisconsin. 
+My career in ecology began in 2007 working as a field technician conducting habitat restoration in prairies in Southeastern Wisconsin. There I learned how to delianate wetlands using plant species, plant native plants, identify and remove invasive species and plan field research. 
+
+In Claudio Gratton's lab at the University of Wisconsin Madison, I was able to grow from a labratory techinician to a field work team lead and co-lab manager while conducting research in agroecosystems and analyzing nutrient flow around lake Myvtan in Iceland. During that time I was responsible for executing the entire data collection pipeline from field sampling to data entry on five projects. As a team lead, I was responsbile for creating training materials for athropods, flowering plants, lab equipment, lab safety, data entry and basic GIS techniques that were critical to the lab. I also had the pleasure of training six undergraduate technicians on field and lab techniques as well as several graduate students on using ArcGIS. In my role as techincal support, I directly contributed data to **X** number of research of papers and dissertations. Several of those papers were included in meta-data analyses regarding ecosystem services and landscape composition **see claudios lab website**.
+
+At the University of Colorado-Boulder, Dr. Deane Bowers gave me the opportunity to contribute to a multi-institution research initiative and develop an additional research project during my Masters degree. The overarching theme of our USDA-NIFA funded project was the investigation of biofuel policy's impacts on native bee communities in the grasslands of Eastern Colorado. On this project, I used my past experience in pollinator diversity studies to help design and execute collection methods for grassland bees. Because this area was extremely under represented in physical and digitized in museum collections, we needed to conduct extensive literature review to understand what level of species diversity to expect. This lead me to build a tool that scrapes the Biodiversity Heritage Library and the Discovery Life websites in order to build natural history tables for each of our expected bee species. Using these natural history tables in combination with other literature, we were able to develop lists of floral associations, bee body size, and sociality, all potentially important traits for explaining community composition. For my thesis, I examined the relationship between landscape elements and species community composition at various spatial scales using multivariate generalized linear models. I found three  components of the landscape (topography, row crops, roadside edge) explained differences in communinity composition at distinct spatial scales. The impact of roadside edges was particularly interesting because they occur on a fine scale that concentrate floral resources in narrow bands leading to a high number of species interactions. To investigate these interactions further, I established a common garden experiment planted in Helianthus petiolarus, an abundant roadside plant, where I artifically increased the concentration of a cryptic predator and monitored foraging behavior in solitary bees. I found that the predators had no detectable effect on foraging behavior, a direct contrast to previous studies of cryptic predators conducted in eusocial bees.  
+
+After completing my masters, I began working on a project with the University of Colorado Musuem of Natural History Bee's Needs participatory science project where I developed a data dashboard for volunteers and designed analyses to investigate trends cavity nesting insect diversity. One of the goals of this short project was to develop a statistical model that would assist in identification of the cavity nesting organisms based on nest characteristics and nest box location. Unfortunately, the data were not sufficient to develop an identification model. 
+
+In my next position, I spent six months as an intern in the Smithsonian Institute's National Museum of Natural History working in the National Insect Collection imaging  holotypes of parasitic wasps and developing an online hymenoptera anatomy learning tool.   
+
+
+
+
+
+
+
+
+
+Deane's guidance on study design, excellent mentorship model, obvious care for her students
+
+Kendi Davies community ecology class
 
 
 
@@ -26,6 +48,7 @@ outlining past research achievements,
    - spatial modeling
  - smithsonian
     - deeper appreciation for specimen curation
+    - saw the need for better use of 
   - NBIC
     - how academic research is translated into govt policy, importance of clear concise sci commm., value of data vizualization, recognize the value of openscience to resource constrained govt institutions like public health and wildlife mgmt agencies
 
